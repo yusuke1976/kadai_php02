@@ -8,7 +8,7 @@
 
 ## ③DEMO
 
-https://gs-dev27-41.sakura.ne.jp/php01kadai/
+https://gs-dev27-41.sakura.ne.jp/php02kadai/index.php
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
 
